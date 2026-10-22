@@ -284,8 +284,7 @@ All of these need you on duty in a LEO job unless noted. "Closest player" means 
 
 | Command | What it does |
 |---|---|
-| `/cuff` | Hard cuffs the closest player (needs handcuffs) |
-| `/sc` | Soft cuffs the closest player (1.5 m). They can walk and get a W/A/S/D skill check to slip out. Using a **Handcuffs** item does the same |
+| `/cuff` | Cuffs the closest player (needs handcuffs). Using the **Handcuffs** item does the same |
 | `/escort` | Escorts the closest cuffed, dead or downed player (no duty check) |
 | `/seizecash` | Takes all of the closest player's cash as a **moneybag** item |
 | `/jail` | Jails the closest player. You enter the time in months |
