@@ -1,12 +1,12 @@
-Grade,Rank
-10,Chief
-9,Assistant Chief
-8,Deputy Chief
-7,Captain
-6,Lieutenant
-5,Staff Sergeant
-4,Sergeant
-3,Corporal
-2,Officer 1st Class
-1,Officer
-0,Cadet
+Grade,Rank,Tier
+10,Chief,High Command
+9,Assistant Chief,High Command
+8,Deputy Chief,High Command
+7,Captain,Command
+6,Lieutenant,Command
+5,Staff Sergeant,Supervisor
+4,Sergeant,Supervisor
+3,Corporal,
+2,Officer 1st Class,
+1,Officer,
+0,Cadet,

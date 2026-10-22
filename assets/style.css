@@ -8,6 +8,10 @@
     --blue-ink: #F2D46A;
     --blue-tint: #1C1D1B;
     --gold: #E9C23A;
+    --gold-tint: #2B2510;
+    --orange: #FF8A3D;
+    --orange-tint: #2E1D10;
+    --steel: #6E86B8;
     --silver: #3A4A6B;
     --silver-tint: #131E36;
     --paper: #060C1B;
@@ -137,8 +141,14 @@ main { padding-top: 28px; padding-bottom: 56px; min-height: 60vh; }
 .cert { padding: 1px 8px; border-radius: 5px; background: #2A2612; color: var(--blue-ink); font-weight: 600; font-size: .82rem; }
 .dim { color: var(--muted); }
 .rank-head { display: flex; align-items: center; gap: 10px; }
-.rank-bar { width: 6px; height: 28px; border-radius: 3px; background: var(--blue); }
-.rank-bar.top { background: var(--red); }
+.rank-bar { width: 6px; height: 28px; border-radius: 3px; background: var(--steel); }
+.rank-bar.high { background: var(--gold); }
+.rank-bar.command { background: var(--red); }
+.rank-bar.supervisor { background: var(--orange); }
+.tier { font: 600 .8rem var(--body); letter-spacing: .3px; padding: 3px 8px; border-radius: 999px; align-self: center; }
+.tier.high { color: var(--gold); background: var(--gold-tint); }
+.tier.command { color: var(--red-ink); background: var(--red-tint); }
+.tier.supervisor { color: var(--orange); background: var(--orange-tint); }
 
 /* ---------- cards (vehicles, uniforms) ---------- */
 .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 14px; }
