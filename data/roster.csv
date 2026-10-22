@@ -1,8 +1,12 @@
 Name,Callsign,Rank,Status,Certs,Join Date
 Example Chief,1-01,Chief,Active,"FTO, Air",10/01/2026
-Example Captain,1-07,Captain,Active,FTO,10/01/2026
-Example Sergeant,2-20,Sergeant,Active,"FTO, Traffic",10/05/2026
+Example Assistant Chief,1-02,Assistant Chief,Active,"FTO, Air",10/01/2026
+Example Deputy Chief,1-03,Deputy Chief,Active,FTO,10/02/2026
+Example Captain,1-07,Captain,Active,FTO,10/03/2026
+Example Lieutenant,1-10,Lieutenant,Active,"FTO, Traffic",10/04/2026
+Example Staff Sergeant,2-15,Staff Sergeant,Active,FTO,10/05/2026
+Example Sergeant,2-20,Sergeant,Active,"FTO, Traffic",10/06/2026
 Example Corporal,2-31,Corporal,LOA,,10/08/2026
-Example Officer,3-40,Officer,Active,,10/12/2026
-Example Officer Two,3-41,Officer,Inactive,,10/16/2026
+Example Officer 1st Class,3-35,Officer 1st Class,Active,Traffic,10/10/2026
+Example Officer,3-40,Officer,Inactive,,10/12/2026
 Example Cadet,4-50,Cadet,Active,,10/20/2026
