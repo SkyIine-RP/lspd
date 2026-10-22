@@ -1,0 +1,7 @@
+Type,Name,Spawn Code,Livery,Livery #,Min Rank,Notes
+Patrol,Stanier Cruiser,police,LSPD,,Cadet,Standard patrol car.
+Patrol,Buffalo Cruiser,police2,LSPD,,Cadet,
+Patrol,Interceptor,police3,LSPD,,Officer,
+Traffic,Police Bike,policeb,LSPD,,Officer 1st Class,Traffic enforcement.
+Transport,Transport Van,policet,LSPD,,Officer 1st Class,Prisoner transport.
+Unmarked,Unmarked Cruiser,police4,None,,Sergeant,Supervisors and investigations.
