@@ -31,7 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. The ranks below come fr
 | 5 | Lieutenant | Lorem ipsum dolor sit amet |
 | 4 | Sergeant | Lorem ipsum dolor sit amet |
 | 3 | Corporal | Lorem ipsum dolor sit amet |
-| 2 | Officer 1st Class | Lorem ipsum dolor sit amet |
+| 2 | Senior PO | Lorem ipsum dolor sit amet |
 | 1 | Officer | Lorem ipsum dolor sit amet |
 | 0 | Cadet | Lorem ipsum dolor sit amet |
 
