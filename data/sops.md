@@ -269,7 +269,7 @@ Third eye the counter and choose **Open Armory**. Everything is free, but the ar
 
 ### Training (trainees and command)
 - Officers at **grade 0 and 1** are trainees automatically. While they're on duty, illegal items show **highlighted in red** when they search someone.
-- `/training` is for **Major and above only (grades 7 to 10)**. It opens the **Training Roster** for your own department, with tabs **Everyone / In training / Online**. It shows each officer's rank, whether they're on duty or online, **Hours this week** and **Last week**.
+- `/training` is for **Captain and above (grades 6 to 10)**. It opens the **Training Roster** for your own department, with tabs **Everyone / In training / Online**. It shows each officer's rank, whether they're on duty or online, **Hours this week** and **Last week**.
 - **Put in training** turns the red highlight back on for an officer without changing their rank. **Clear training** turns it off. You can only change officers ranked below you. Trainee-rank officers show "Promote to clear".
 - Illegal list: joint, weed_skunk, cokebaggy, meth, heroin, lsd, coke/weed/meth bricks, thermite, markedbills, black_money, Micro SMG, Mini SMG, Machine Pistol, Assault Rifle, Compact Rifle, Sawn-off, Switchblade, Knuckles.
 
